@@ -9,5 +9,5 @@
 ## [Live Site](https://vaishnavipatil-food-website.netlify.app/)
  https://vaishnavipatil-food-website.netlify.app/
  
- ![home_page](Phone/DCIM/Screenshots/Home page.jpg)
+ 
  
